@@ -3,3 +3,5 @@ class Aluno:
         self.nome = nome
         self.matricula = matricula
         self.nota = nota
+
+# Alterando arquivo
